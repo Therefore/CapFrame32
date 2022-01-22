@@ -16,8 +16,8 @@ The Soltuion: CapFrame32 provides a battery powered solution that can match the 
 
 Instructions
  - Order the circuit boards from a pcb manufacturer (JLCPCB, PCBWay, etc...) I order them in white so the board doesn't show through
- - Download and print the 3D parts
- - Download, customize, and print the paper template
+ - [Download](https://github.com/Therefore/Cap-Touch-Picture-Frame/blob/main/Wall%20Offset%20Mounts.stl) and print the 3D parts
+ - [Download](https://github.com/Therefore/Cap-Touch-Picture-Frame/blob/main/CapFrame32%20-%20Paper%20Template.pptx), customize, and print the paper template
  - Use ESPHome (or Tasmota or your own) to flash the ESP32 Chip. I use one of [these](https://i.imgur.com/y9FOEVh.jpg).
  - Solder the ESP32 chip and battery holder to the board
  - Place the components in a 4" x 6" picture frame that matches your decor
