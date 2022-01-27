@@ -18,7 +18,11 @@ The Soltuion: CapFrame32 provides a battery powered solution that can match the 
    <img src="https://imgur.com/qYsWsX9.jpg" alt="Front of Board" width="600"/>
    <img src="https://imgur.com/SVfPY0e.jpg" alt="Back of Board" width="600"/>
    
-
+Shopping List:
+1 - 4x6 picture frame - Walmart has them for $2.50
+1 - 18650 battery [18650BatteryStore](https://www.18650batterystore.com/collections/18650-batteries)
+1 - ESP32-Wroom-32D - [Amazon non-affiliant link](https://www.amazon.com/gp/product/B085BNHPW5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+2 - 18650 battery holders. [digikey](https://www.digikey.com/en/products/detail/keystone-electronics/254/9646025) - You need 2 per board
 
 Instructions
  - Order the circuit boards from a pcb manufacturer (JLCPCB, PCBWay, etc...) I order them in white so the board doesn't show through
@@ -32,5 +36,3 @@ Instructions
 Troubleshooting
  Chip doesn't boot up?
  - Ensure you're soldering the GND, VIN, and EN pins on the ESP32.
-
-
