@@ -11,6 +11,8 @@ The Soltuion: CapFrame32 provides a battery powered solution that can match the 
 -  3️⃣ objects to 3D print. No support and about 1 hour of print time.
 
    CapFrame32 can be mounted on small picture nails or adhesive hangers. It's very light.
+   
+   <img src="https://i.imgur.com/jh7MDC7.jpg" alt="drawing" width="200"/>
     
 ![CapFrame32](https://i.imgur.com/jh7MDC7.jpg)
 ![CapFrame32](https://imgur.com/JvT1Y4J.jpg)
