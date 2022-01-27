@@ -1,4 +1,4 @@
-# Cap Touch Picture Frame
+# Cap Touch Picture Frame (CapFrame32)
 An ESP32 Powered Capacitive touch panel for ESPHome and Home Assistant
 
 The Problem: I want to be able to control home assiatnt from many rooms in the house. Placing tablets in each room is too expensive their cords hanging are unsightly and outlets are not always convieniently placed. The solution also has to match the decore of each room and blend into the space.
