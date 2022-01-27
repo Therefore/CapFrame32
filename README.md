@@ -16,7 +16,7 @@ The Soltuion: CapFrame32 provides a battery powered solution that can match the 
    <img src="https://imgur.com/JvT1Y4J.jpg" alt="CapFrame32" width="600"/>
    <img src="https://imgur.com/y9FOEVh.jpg" alt="ESP32-Wroom-32D Programmer" width="600"/>
    <img src="https://imgur.com/qYsWsX9.jpg" alt="Front of Board" width="600"/>
-   <img src="https://imgur.com/V6XfYHB.jpg" alt="Back of Board" width="600"/>
+   <img src="https://imgur.com/SVfPY0e.jpg" alt="Back of Board" width="600"/>
    
 
 
